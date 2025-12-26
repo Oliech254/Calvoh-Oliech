@@ -1,0 +1,7 @@
+{
+  "name": "KenyDrive Peak - Uber & Bolt Optimizer",
+  "description": "A high-performance analytics dashboard for rideshare drivers in Kenya to track peak hours, hot zones, and optimize parking to maximize earnings using AI-driven predictions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
